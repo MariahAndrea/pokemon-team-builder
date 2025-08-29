@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import useFetch from "../hooks/useFetch";
-import PokemonDisplay from './PokedexDisplay';
+import PokemonDisplay from './PokemonDisplay';
 import SearchBar from './SearchBar';
 
 function capitalize(str) {

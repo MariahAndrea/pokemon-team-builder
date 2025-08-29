@@ -2,7 +2,7 @@ import "./App.css";
 import { TeamProvider } from "./store/TeamContext";
 import Pokedex from "./components/Pokedex";
 import PokemonTeam from "./components/PokemonTeam";
-import PokemonDisplay from "./components/PokedexDisplay";
+import PokemonDisplay from "./components/PokemonDisplay";
 
 export default function App() {
     return (
